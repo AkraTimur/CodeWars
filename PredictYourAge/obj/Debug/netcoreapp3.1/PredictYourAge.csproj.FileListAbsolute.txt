@@ -1,0 +1,14 @@
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\bin\Debug\netcoreapp3.1\PredictYourAge.exe
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\bin\Debug\netcoreapp3.1\PredictYourAge.deps.json
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\bin\Debug\netcoreapp3.1\PredictYourAge.runtimeconfig.json
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\bin\Debug\netcoreapp3.1\PredictYourAge.runtimeconfig.dev.json
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\bin\Debug\netcoreapp3.1\PredictYourAge.dll
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\bin\Debug\netcoreapp3.1\PredictYourAge.pdb
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\obj\Debug\netcoreapp3.1\PredictYourAge.csproj.AssemblyReference.cache
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\obj\Debug\netcoreapp3.1\PredictYourAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\obj\Debug\netcoreapp3.1\PredictYourAge.AssemblyInfoInputs.cache
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\obj\Debug\netcoreapp3.1\PredictYourAge.AssemblyInfo.cs
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\obj\Debug\netcoreapp3.1\PredictYourAge.csproj.CoreCompileInputs.cache
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\obj\Debug\netcoreapp3.1\PredictYourAge.dll
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\obj\Debug\netcoreapp3.1\PredictYourAge.pdb
+C:\C#Projects\CodeWars\CodeWars\PredictYourAge\obj\Debug\netcoreapp3.1\PredictYourAge.genruntimeconfig.cache
