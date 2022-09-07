@@ -1,0 +1,14 @@
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.exe
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.deps.json
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.runtimeconfig.json
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.runtimeconfig.dev.json
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.dll
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\bin\Debug\netcoreapp3.1\WriteNumberInExpandedForm.pdb
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.csproj.AssemblyReference.cache
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.AssemblyInfoInputs.cache
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.AssemblyInfo.cs
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.csproj.CoreCompileInputs.cache
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.dll
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.pdb
+C:\C#Projects\CodeWarsNew\CodeWars\WriteNumberInExpandedForm\obj\Debug\netcoreapp3.1\WriteNumberInExpandedForm.genruntimeconfig.cache

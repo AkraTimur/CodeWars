@@ -1,0 +1,14 @@
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\bin\Debug\netcoreapp3.1\Merge_two_sorted_arrays.exe
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\bin\Debug\netcoreapp3.1\Merge_two_sorted_arrays.deps.json
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\bin\Debug\netcoreapp3.1\Merge_two_sorted_arrays.runtimeconfig.json
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\bin\Debug\netcoreapp3.1\Merge_two_sorted_arrays.runtimeconfig.dev.json
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\bin\Debug\netcoreapp3.1\Merge_two_sorted_arrays.dll
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\bin\Debug\netcoreapp3.1\Merge_two_sorted_arrays.pdb
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\obj\Debug\netcoreapp3.1\Merge_two_sorted_arrays.csproj.AssemblyReference.cache
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\obj\Debug\netcoreapp3.1\Merge_two_sorted_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\obj\Debug\netcoreapp3.1\Merge_two_sorted_arrays.AssemblyInfoInputs.cache
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\obj\Debug\netcoreapp3.1\Merge_two_sorted_arrays.AssemblyInfo.cs
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\obj\Debug\netcoreapp3.1\Merge_two_sorted_arrays.csproj.CoreCompileInputs.cache
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\obj\Debug\netcoreapp3.1\Merge_two_sorted_arrays.dll
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\obj\Debug\netcoreapp3.1\Merge_two_sorted_arrays.pdb
+C:\C#Projects\CodeWarsNew\CodeWars\Merge_two_sorted_arrays\obj\Debug\netcoreapp3.1\Merge_two_sorted_arrays.genruntimeconfig.cache

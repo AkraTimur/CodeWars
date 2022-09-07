@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Function_2 _squaring_an_argument/1.0.0": {
+        "runtime": {
+          "Function_2 _squaring_an_argument.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Function_2 _squaring_an_argument/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

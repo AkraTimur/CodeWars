@@ -1,0 +1,14 @@
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.exe
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.deps.json
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.json
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.runtimeconfig.dev.json
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\bin\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.AssemblyReference.cache
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfoInputs.cache
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.AssemblyInfo.cs
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.dll
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.pdb
+C:\C#Projects\CodeWarsNew\CodeWars\SimpleCalculator\obj\Debug\netcoreapp3.1\SimpleCalculator.genruntimeconfig.cache

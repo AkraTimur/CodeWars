@@ -1,0 +1,14 @@
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\bin\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.exe
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\bin\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.deps.json
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\bin\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.runtimeconfig.json
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\bin\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.runtimeconfig.dev.json
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\bin\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.dll
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\bin\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.pdb
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\obj\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.csproj.AssemblyReference.cache
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\obj\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\obj\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.AssemblyInfoInputs.cache
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\obj\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.AssemblyInfo.cs
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\obj\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.csproj.CoreCompileInputs.cache
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\obj\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.dll
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\obj\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.pdb
+C:\C#Projects\CodeWarsNew\CodeWars\Function_2 _squaring_an_argument\obj\Debug\netcoreapp3.1\Function_2 _squaring_an_argument.genruntimeconfig.cache
