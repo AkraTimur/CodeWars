@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Return the day", "Return the day.csproj", "{57F8079D-8219-4906-ABAB-C85A8C04AFD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{FAA212CB-EDA4-4028-940B-8F4D62083A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F8079D-8219-4906-ABAB-C85A8C04AFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F8079D-8219-4906-ABAB-C85A8C04AFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F8079D-8219-4906-ABAB-C85A8C04AFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F8079D-8219-4906-ABAB-C85A8C04AFD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA212CB-EDA4-4028-940B-8F4D62083A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA212CB-EDA4-4028-940B-8F4D62083A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA212CB-EDA4-4028-940B-8F4D62083A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA212CB-EDA4-4028-940B-8F4D62083A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9B9558C-1486-44CF-B800-3C194A516D03}
+	EndGlobalSection
+EndGlobal
