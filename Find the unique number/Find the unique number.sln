@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the unique number", "Find the unique number\Find the unique number.csproj", "{A3D14A7A-7F2B-45A5-ADD3-05855FE269E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{910D57E2-ACF0-492E-8599-3BA0E43B0546}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3D14A7A-7F2B-45A5-ADD3-05855FE269E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3D14A7A-7F2B-45A5-ADD3-05855FE269E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3D14A7A-7F2B-45A5-ADD3-05855FE269E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3D14A7A-7F2B-45A5-ADD3-05855FE269E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910D57E2-ACF0-492E-8599-3BA0E43B0546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910D57E2-ACF0-492E-8599-3BA0E43B0546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910D57E2-ACF0-492E-8599-3BA0E43B0546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910D57E2-ACF0-492E-8599-3BA0E43B0546}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E569C792-C0C4-4F36-B0DC-BB73A44D54C1}
+	EndGlobalSection
+EndGlobal
