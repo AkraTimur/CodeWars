@@ -21,18 +21,3 @@ namespace Largest_pair_sum_in_array
         }
     }
 }
-//var resList = new List<int>();
-//int res = 0;
-//for (int i = 0; i < numbers.Length; i++)
-//{
-//    for (int j = i + 1; i < numbers.Length/2; i++)
-//    {
-//        res = numbers[i] + numbers[j];
-//        resList.Add(res);
-//        j++;
-
-//    }
-//} 
-//return resList.Max();   
-
-//var lisT = numbers.Aggregate((x, y) => x + y);
