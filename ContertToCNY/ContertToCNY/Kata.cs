@@ -10,7 +10,7 @@ namespace ContertToCNY
     {
         public static string Usdcny(int usd)
         {
-            return (Convert.ToDecimal(usd) * 6.75M).ToString("0.00");
+            return $"{(Convert.ToDecimal(usd) * 6.75M).ToString("0.00")} Chinese Yuan";
         }
     }
 }

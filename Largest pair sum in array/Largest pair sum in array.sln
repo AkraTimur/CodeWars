@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest pair sum in array", "Largest pair sum in array\Largest pair sum in array.csproj", "{23274133-9B1B-44D1-95B8-231CAFD2F673}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{E3B2DBF3-38D0-4F95-9452-34E260661C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23274133-9B1B-44D1-95B8-231CAFD2F673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23274133-9B1B-44D1-95B8-231CAFD2F673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23274133-9B1B-44D1-95B8-231CAFD2F673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23274133-9B1B-44D1-95B8-231CAFD2F673}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B2DBF3-38D0-4F95-9452-34E260661C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B2DBF3-38D0-4F95-9452-34E260661C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B2DBF3-38D0-4F95-9452-34E260661C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B2DBF3-38D0-4F95-9452-34E260661C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AD2AB02-FA05-471F-B2B7-4F62499E9B5C}
+	EndGlobalSection
+EndGlobal
