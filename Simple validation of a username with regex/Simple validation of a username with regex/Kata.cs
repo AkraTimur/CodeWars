@@ -11,9 +11,8 @@ namespace Simple_validation_of_a_username_with_regex
     {
         public static bool ValidateUsr(string username)
         {
-            string pattern = "^[a-z\\d_-]+$";
+            string pattern = "^[a-z\\d_-]{4,16}$";
             Regex regex = new Regex(pattern);
-            if (username.Length < 4) return false;
             return regex.IsMatch(username);
         }
     }
