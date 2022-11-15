@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple validation of a username with regex", "Simple validation of a username with regex\Simple validation of a username with regex.csproj", "{0959702E-54E3-4A88-A2FF-58D3D069F26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{808427D1-5994-447A-84B0-340D08C7FCF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0959702E-54E3-4A88-A2FF-58D3D069F26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0959702E-54E3-4A88-A2FF-58D3D069F26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0959702E-54E3-4A88-A2FF-58D3D069F26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0959702E-54E3-4A88-A2FF-58D3D069F26C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{808427D1-5994-447A-84B0-340D08C7FCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{808427D1-5994-447A-84B0-340D08C7FCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{808427D1-5994-447A-84B0-340D08C7FCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{808427D1-5994-447A-84B0-340D08C7FCF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0F69ED6-17DD-4223-BE56-487917DD16B7}
+	EndGlobalSection
+EndGlobal
