@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge two sorted arrays into one", "Merge two sorted arrays into one\Merge two sorted arrays into one.csproj", "{847BEA50-CC71-4838-B587-AC1ECAB6978E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{8A85C13F-B1F9-4D8D-B2C6-022A6B444C75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847BEA50-CC71-4838-B587-AC1ECAB6978E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847BEA50-CC71-4838-B587-AC1ECAB6978E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847BEA50-CC71-4838-B587-AC1ECAB6978E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847BEA50-CC71-4838-B587-AC1ECAB6978E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A85C13F-B1F9-4D8D-B2C6-022A6B444C75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A85C13F-B1F9-4D8D-B2C6-022A6B444C75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A85C13F-B1F9-4D8D-B2C6-022A6B444C75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A85C13F-B1F9-4D8D-B2C6-022A6B444C75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {215019C3-A90E-4215-90F6-3E37455369BF}
+	EndGlobalSection
+EndGlobal
