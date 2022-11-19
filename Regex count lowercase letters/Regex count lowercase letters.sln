@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex count lowercase letters", "Regex count lowercase letters\Regex count lowercase letters.csproj", "{33BBBC30-B68A-48B9-9F55-937B8A7AABFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{FE793451-A127-402E-885B-B69DACD08170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33BBBC30-B68A-48B9-9F55-937B8A7AABFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BBBC30-B68A-48B9-9F55-937B8A7AABFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BBBC30-B68A-48B9-9F55-937B8A7AABFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BBBC30-B68A-48B9-9F55-937B8A7AABFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE793451-A127-402E-885B-B69DACD08170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE793451-A127-402E-885B-B69DACD08170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE793451-A127-402E-885B-B69DACD08170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE793451-A127-402E-885B-B69DACD08170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB8321EE-F432-4C0B-90C4-22F87E2138B9}
+	EndGlobalSection
+EndGlobal
