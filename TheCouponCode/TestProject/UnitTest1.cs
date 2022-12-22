@@ -1,5 +1,4 @@
 using TheCouponCode;
-using NUnit.Framework;
 
 namespace TestProject
 {
