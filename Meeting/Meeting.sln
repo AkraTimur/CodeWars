@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meeting", "Meeting\Meeting.csproj", "{F269173B-6494-490A-900E-264844D9CF48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{827302DA-8988-443A-AEB3-2F3650ACD5E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F269173B-6494-490A-900E-264844D9CF48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F269173B-6494-490A-900E-264844D9CF48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F269173B-6494-490A-900E-264844D9CF48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F269173B-6494-490A-900E-264844D9CF48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827302DA-8988-443A-AEB3-2F3650ACD5E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827302DA-8988-443A-AEB3-2F3650ACD5E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827302DA-8988-443A-AEB3-2F3650ACD5E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827302DA-8988-443A-AEB3-2F3650ACD5E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65AC54E-83C0-41E6-8AC1-728E6F7DE2A5}
+	EndGlobalSection
+EndGlobal
