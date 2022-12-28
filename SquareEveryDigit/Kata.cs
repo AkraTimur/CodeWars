@@ -20,7 +20,8 @@ namespace SquareEveryDigit
 
             }    
             var res = string.Join("", list);
-            int.TryParse(res, null, out int result);
+            int.TryParse(res, System.Globalization.NumberStyles.AllowThousands, null, out int result);
             return result;
         }
     }
+}
