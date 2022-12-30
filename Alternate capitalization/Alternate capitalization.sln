@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alternate capitalization", "Alternate capitalization.csproj", "{62BD0A8D-5613-4FBA-8F5B-937DC352C30D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62BD0A8D-5613-4FBA-8F5B-937DC352C30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BD0A8D-5613-4FBA-8F5B-937DC352C30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BD0A8D-5613-4FBA-8F5B-937DC352C30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BD0A8D-5613-4FBA-8F5B-937DC352C30D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6996AAC-0E1D-49C7-A584-4CE02F50E812}
+	EndGlobalSection
+EndGlobal
