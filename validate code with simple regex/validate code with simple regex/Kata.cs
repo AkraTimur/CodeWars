@@ -9,7 +9,6 @@ namespace validate_code_with_simple_regex
     {
         public static bool ValidateCode(string code)
         {
-            //use regex here
             return Regex.IsMatch(code, "^[1-3]");
         }
     }
