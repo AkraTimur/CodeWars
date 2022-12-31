@@ -1,12 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Find_the_capitals
+﻿namespace Find_the_capitals
 {
-    internal class Kata
+    public class Kata
     {
+        public static int[] Capitals(string word)
+        {
+            var array = word.ToCharArray();
+
+            var list = new List<int>();
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (char.IsUpper(array[i]))
+                {
+                    list.Add(i);
+                }
+            }
+            return list.ToArray();
+        }
     }
 }
