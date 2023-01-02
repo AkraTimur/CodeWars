@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Love vs friendship", "Love vs friendship.csproj", "{291C23A5-352F-4BC3-BCAA-A9A589301CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{291C23A5-352F-4BC3-BCAA-A9A589301CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{291C23A5-352F-4BC3-BCAA-A9A589301CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{291C23A5-352F-4BC3-BCAA-A9A589301CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{291C23A5-352F-4BC3-BCAA-A9A589301CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81E9449-742D-4AF7-A702-8AF158473B7F}
+	EndGlobalSection
+EndGlobal
