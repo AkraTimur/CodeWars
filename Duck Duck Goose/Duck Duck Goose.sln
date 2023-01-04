@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duck Duck Goose", "Duck Duck Goose\Duck Duck Goose.csproj", "{3B3DA1BF-4A48-4C7A-99BF-84C5A824EE2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{E78208AB-60B7-4D5A-A2AF-5A7DECBC606E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B3DA1BF-4A48-4C7A-99BF-84C5A824EE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B3DA1BF-4A48-4C7A-99BF-84C5A824EE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B3DA1BF-4A48-4C7A-99BF-84C5A824EE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B3DA1BF-4A48-4C7A-99BF-84C5A824EE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E78208AB-60B7-4D5A-A2AF-5A7DECBC606E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E78208AB-60B7-4D5A-A2AF-5A7DECBC606E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E78208AB-60B7-4D5A-A2AF-5A7DECBC606E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E78208AB-60B7-4D5A-A2AF-5A7DECBC606E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C4440B6-A826-47DB-9C1A-B2AD1D2010E5}
+	EndGlobalSection
+EndGlobal
