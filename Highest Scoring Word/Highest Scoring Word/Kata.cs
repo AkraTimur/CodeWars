@@ -8,8 +8,8 @@
 
         public  HightWord(string name, int count) 
         {
-            WordName= name;
-            WordValue = count;    
+            this. WordName= name;
+            this.WordValue = count;    
         }
 
     }
