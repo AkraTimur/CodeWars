@@ -31,7 +31,7 @@
                 list.Add(new HightWord(word, count));
             }
 
-            return list.OrderByDescending(x => x.WordValue).Select(x => x.WordName).First(); 
+            return list.OrderByDescending(x => x.WordValue).Select(x => x.WordName); 
         }
     }
 }
