@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Largest_pair_sum_in_array
+﻿namespace Largest_pair_sum_in_array
 {
     public class Kata
     {
