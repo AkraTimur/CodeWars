@@ -1,8 +1,9 @@
-namespace Solution
+using Largest_pair_sum_in_array;
+
+namespace TestProject1
 {
-    using Largest_pair_sum_in_array;
     [TestFixture]
-    public class SolutionTest
+    public class Tests
     {
         [Test]
         public void SampleTest()
