@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>The_wheat_rice_and_chessboard_problem</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
