@@ -1,9 +1,12 @@
-﻿namespace The_old_switcheroo
+﻿using System.Text.RegularExpressions;
+
+namespace The_old_switcheroo
 {
     public class Kata
     {
         public static string Vowel2Index(string str)
         {
+            return Regex.Replace(str, "[aeiou]", x => (x.Index + 1).ToString());
             var arr = str.ToCharArray();
             string vowels = "aeiou";
             var list = new List<string>(); 
