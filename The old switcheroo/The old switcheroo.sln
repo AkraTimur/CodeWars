@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The old switcheroo", "The old switcheroo\The old switcheroo.csproj", "{48B4E5C2-068F-4E4A-8B41-C8422B978979}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The old switcherooTests", "The old switcherooTests\The old switcherooTests.csproj", "{65EB070F-CAC8-4B04-A117-CA31F103F929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B4E5C2-068F-4E4A-8B41-C8422B978979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B4E5C2-068F-4E4A-8B41-C8422B978979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B4E5C2-068F-4E4A-8B41-C8422B978979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B4E5C2-068F-4E4A-8B41-C8422B978979}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65EB070F-CAC8-4B04-A117-CA31F103F929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EB070F-CAC8-4B04-A117-CA31F103F929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EB070F-CAC8-4B04-A117-CA31F103F929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EB070F-CAC8-4B04-A117-CA31F103F929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EE9B73A-57B9-4A61-99E5-CA7A0A9EEF96}
+	EndGlobalSection
+EndGlobal
