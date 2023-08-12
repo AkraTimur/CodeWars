@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jungerstein's Math Training Room", "Jungerstein's Math Training Room\Jungerstein's Math Training Room.csproj", "{1A6A66A1-F2BB-4E0F-B6B4-0BCA454D3DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jungerstein's Math Training RoomTests", "Jungerstein's Math Training RoomTests\Jungerstein's Math Training RoomTests.csproj", "{196B1A59-D1F2-4857-BAA9-98DD06F3915D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A6A66A1-F2BB-4E0F-B6B4-0BCA454D3DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A6A66A1-F2BB-4E0F-B6B4-0BCA454D3DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A6A66A1-F2BB-4E0F-B6B4-0BCA454D3DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A6A66A1-F2BB-4E0F-B6B4-0BCA454D3DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196B1A59-D1F2-4857-BAA9-98DD06F3915D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196B1A59-D1F2-4857-BAA9-98DD06F3915D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196B1A59-D1F2-4857-BAA9-98DD06F3915D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196B1A59-D1F2-4857-BAA9-98DD06F3915D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C80E1F17-4E23-4F9F-859E-7E0820647A47}
+	EndGlobalSection
+EndGlobal
