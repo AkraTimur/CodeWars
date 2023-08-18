@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33927.249
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array element parity", "Array element parity\Array element parity.csproj", "{271C4CCC-C4D0-4D5F-8E9D-4268A9482A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array element parityTests", "Array element parityTests\Array element parityTests.csproj", "{037360F0-BDFD-4E44-8E19-D36FBFDFCD2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271C4CCC-C4D0-4D5F-8E9D-4268A9482A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271C4CCC-C4D0-4D5F-8E9D-4268A9482A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271C4CCC-C4D0-4D5F-8E9D-4268A9482A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271C4CCC-C4D0-4D5F-8E9D-4268A9482A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{037360F0-BDFD-4E44-8E19-D36FBFDFCD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{037360F0-BDFD-4E44-8E19-D36FBFDFCD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{037360F0-BDFD-4E44-8E19-D36FBFDFCD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{037360F0-BDFD-4E44-8E19-D36FBFDFCD2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422ED0FC-2ACD-45B9-BB7C-08248A46631D}
+	EndGlobalSection
+EndGlobal
